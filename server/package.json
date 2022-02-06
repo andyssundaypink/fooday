@@ -1,6 +1,6 @@
 {
 		"dependencies": {
-				"bcrypt": "^3.0.0",
+				"bcrypt": ">=5.0.0",
 				"body-parser": "^1.18.3",
 				"chalk": "^2.4.1",
 				"compression": "^1.7.3",
@@ -19,7 +19,7 @@
 				"mongoose": "^5.4.19",
 				"mongoose-string-query": "^0.2.7",
 				"mongoose-timestamp": "^0.6.0",
-				"validator": "^10.11.0"
+				"validator": ">=13.7.0"
 		},
 		"scripts": {
 				"start": "node start.js"
